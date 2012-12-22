@@ -2,11 +2,33 @@ Gunpowder + Charcoal + Paper = Flare
 + Color = Colored Flare
 + Bonemeal = Underwater Flare
 	Standing in the same block as a flare entity causes periodic damage
+	~20 light level, flickers
+	Expires after 5 minutes, drops empty casing if dry
 
 Gunpowder + Beef = Salted Beef
 Gunpowder + Pork = Salted Pork
 
 8 Gunpowder + Ore = Smelting Charge
 	Place on ground, give a redstone signal = 2 Ingots
+
+Gunpowder + Sand + Paper = Explosive Charge
+Explosive Charge + String*X = Timed Explosive Charge (Throwable, fuse time = String seconds e.g. 4 string 4 second fuse)
+Timed Explosive Charge + Slimeball = StickyBomb (Throwable)
+	Flint+Steel required on hotbar to throw, charges stackable to 16
 	
-Shaped charges for mining?
+Clay Clay Clay
+Clay Chrg Clay = Shaped Charge (3x3x3 area)
+Chrg Chrg Chrg
+
+  Any Block
+Pressure Plate = Mine (Camouflaged as block, 1/16th block into block above, 
+Shaped Charge		placing a block or walking on it will set it off)
+
+Iron Iron Iron
+ X    X    X    = Iron Tube
+Iron Iron Iron
+
+Iron Tube + Iron + Log = Blunderbuss (Uses standard Explosive Charges & Cobble as ammunition,
+					damage equal to fully drawn bow at medium range, more closer, less futher)
+
+Iron Tube + Timed Explosive Charge*4 = Grenade/Pipebomb (Throwable, larger damage radius than normal charge)
