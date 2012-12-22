@@ -1,0 +1,12 @@
+Gunpowder + Charcoal + Paper = Flare
++ Color = Colored Flare
++ Bonemeal = Underwater Flare
+	Standing in the same block as a flare entity causes periodic damage
+
+Gunpowder + Beef = Salted Beef
+Gunpowder + Pork = Salted Pork
+
+8 Gunpowder + Ore = Smelting Charge
+	Place on ground, give a redstone signal = 2 Ingots
+	
+Shaped charges for mining?
